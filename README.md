@@ -1,7 +1,5 @@
 # insurance_scr_data
-How to Work With Comprehensive Internal Model Data for Three Portfolios
-
-DAV Use Case
+DAV Use Case:
 How to Work With Comprehensive Internal Model Data for Three Portfolios
 
 The main intention of this notebook is to demonstrate how the comprehensive internal model data which we provide together with the notebook can be loaded and transformed in order to train different machine learning models.
