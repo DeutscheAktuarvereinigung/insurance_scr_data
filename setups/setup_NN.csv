@@ -1,0 +1,2 @@
+batchsize,no_layers,dropouts,no_nodes,activation,initializer,optimizer,learning_rate,output_activation_function
+[150],[2],"[0.2,0.2,0.2]","[50,70,50]",'relu','uniform','adam',[0.001],'sigmoid'
